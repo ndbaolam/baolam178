@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lam</h1>
 <h3 align="center">Hi, guys! I'm Lam, a second-year HUST student. I'm on my way to becoming a developer, and I have a keen interest in Databases, Algorithms, and Web development.</h3>
 
-- 📫 How to reach me **baolam782004@gmail.com**
-
 - ⚡ Fun fact **I have a girlfriend;))**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **baolam782004@gmail.com**</h3>
 <p align="left">
 </p>
 
